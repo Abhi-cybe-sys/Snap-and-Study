@@ -69,3 +69,8 @@ GitHub: [Abhi-cybe-sys](https://github.com/Abhi-cybe-sys)
 ## 📄 License
 
 No license has been specified yet.
+
+
+## 📸 Application Screenshot
+
+![Snap & Study Homepage](assets/homepage.png)
