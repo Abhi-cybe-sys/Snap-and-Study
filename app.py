@@ -12,7 +12,8 @@ from prompts import (
 from email_sender import send_email
 
 
-MODEL_NAME = "gemini-3.8-flash"
+
+MODEL_NAME = "gemini-3.6-flash"
 
 st.set_page_config(
     page_title="Snap & Study",
